@@ -8,7 +8,7 @@ tostop = 0
 
 intents = discord.Intents.all()
 
-TOKEN = "MTA0NDYxODY0MTU4MjMzODA2OQ.G5SUXL.F1bUFjklNowSXPAuXAykXYpFE-mY9Wb-nOWPGo"
+TOKEN = "Your Token here"
 rh = commands.Bot(command_prefix=".", intents=intents)
 
 
